@@ -1,8 +1,8 @@
 ### Hi, I'm Zaimond Lim
 
-**Computer Science & AI student @ Lorma Colleges, Philippines**
+**Computer Science & AI @ Lorma Colleges, Philippines**
 
-I build mobile apps with Flutter and back ends with Java and Spring Boot, and I'm interested in making AI useful and safe. A few of my projects are pinned below.
+I build mobile apps with Flutter and back ends with Java and Spring Boot. A few of my projects are pinned below.
 
 **Tools:** Java · Spring Boot · Flutter · Dart · Firebase · SQL
 
